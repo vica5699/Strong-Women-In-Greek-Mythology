@@ -1,16 +1,15 @@
-head {
+header {
     color: Black;
+    font-family: 'Caveat' cursive;
     font-style: bold;
-    font-size: 50px;
+    font-size: 100px;
 }
 p {   
     color: white;
     font-family: 'Caveat', cursive;
     font-size: 25px;
-    background-color:black;
+    background-color: brown;
     border-style: dotted dashed solid;
 }
-section {
-    color: Black;
-}
+
 
