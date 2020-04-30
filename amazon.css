@@ -7,19 +7,19 @@ header {
 h1 {
     color: black;
     font-family: 'Caveat' cursive;
-    font-style: bold;
+    font-display: italic;
     font-size: 40px;
 }
 h2 {
     color: black;
     font-family: 'Caveat' cursive;
-    font-style: bold;
+    font-display: italic;
     font-size: 40px;
 }
 h3 {
     color: black;
     font-family: 'Caveat' cursive;
-    font-style: bold;
+    font-display: italic;
     font-size: 40px;
 }
 p {   
