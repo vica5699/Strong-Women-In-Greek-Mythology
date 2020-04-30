@@ -1,0 +1,22 @@
+head {
+    font-style: bold
+}
+text{
+  font-size: 25px;
+}
+p {
+    background-color: lightgray;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 100px;
+    font-size: 18px;
+    font-family: 'Satisfy', cursive;
+    font-style: italic;
+    border-style: solid;
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: black;
+    outline-width: 5px;
+    color: black;
+}
