@@ -1,5 +1,8 @@
 header {
-  font-display: bold 30px;
+  color: Black;
+    font-family: 'Caveat' cursive;
+    font-style: bold;
+    font-size: 50px;
 }
 div{
     font-size: 18px
