@@ -23,32 +23,3 @@ p {
     background-color: black;
     border-style: dotted dashed solid;
 }
-nav{
-    float: left;
-    background: #262625;
-    padding: 20px;
-    width: 420px;
-    height: 500px;
-}
-.container {
-    position: relative;
-    width: 50%;
-}
-.image {
-    display: block;
-    width: 100%;
-    height: auto;
-}
-.overlay {
-    position: absolute;
-    bottom: 100%;
-    left: 0;
-    right: 0;
-    background-color: #822721;
-    opacity: 80%;
-    overflow: hidden;
-    width: 350px;
-    height: 0;
-    transition: .5s ease;
-}
-
