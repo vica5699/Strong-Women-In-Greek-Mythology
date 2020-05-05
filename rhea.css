@@ -16,7 +16,7 @@ p {
 }
 footer {
     background-image: url(https://webservice.emaze.com/convert/presentationThumbnail?presentationID=@ATTWQOW&w=1200&h=675&imgW=1200);
-    padding: 100px;
+    padding: 200px;
     text-align: center;
     color: black;
 }
