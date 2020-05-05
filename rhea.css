@@ -14,3 +14,9 @@ p {
     margin: 20px;
     background-color: lightcoral;
 }
+footer {
+    background-image: url(https://webservice.emaze.com/convert/presentationThumbnail?presentationID=@ATTWQOW&w=1200&h=675&imgW=1200);
+    padding: 10px;
+    text-align: center;
+    color: black;
+}

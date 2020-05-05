@@ -26,3 +26,9 @@ p {
     outline-width: 5px;
     color: black;
 }
+footer {
+  background-image: url(https://mythologian.net/wp-content/uploads/2012/09/artemis1.jpg);
+  padding: 10px;
+  text-align: center;
+  color: white;
+}

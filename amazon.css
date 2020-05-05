@@ -23,3 +23,9 @@ p {
     background-color: black;
     border-style: dotted dashed solid;
 }
+footer {
+    background-image: url(https://lh3.googleusercontent.com/proxy/xCkH-HxS5C5uFOTcAM-dpLXPnEIO_jQSj4xBeWRvrp7jjjg8N1NpcY_sWz_F0TmkeFZs0AfoO3tjVf28ZGrffHTfxOGretcrlmgW45wx4bjh1zI6pNoKEEC2tSVeHA);
+    padding: 10px;
+    text-align: center;
+    color: silver;
+}
